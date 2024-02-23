@@ -3,11 +3,12 @@
 - category: Tamara von Glehn, João G. M. Araújo, Petar Veličković
 
   items:
-    - title: Example
+    - title: Read the paper
       url: https://www.example.com
-      icon: ri:film-fill # Icons are optional.
       tag: New
 
-    - title: Example 2
-      url: https://www.example.org
-      icon: simple-icons:googlenews
+    - title: Learn the basics (Cats4AI)
+      url: https://cats.for.ai/
+
+    - title: Literature
+      url: https://github.com/bgavran/Category_Theory_Machine_Learning
