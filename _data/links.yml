@@ -1,4 +1,4 @@
-- category: Blogs
+- category: Bruno Gavranović, Paul Lessard, Andrew Dudzik, Tamara von Glehn, João G. M. Araújo, Petar Veličković
   items:
     - title: Example
       url: https://www.example.com
@@ -8,15 +8,3 @@
     - title: Example 2
       url: https://www.example.org
       icon: simple-icons:googlenews
-
-- category: Products
-  items:
-    - title: Example 3
-      url: https://www.example.com
-
-- category: Works
-  items:
-    - title: Example 4
-      url: https://www.example.org
-      icon: clarity:language-solid
-      tag: Sale
