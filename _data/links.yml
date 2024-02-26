@@ -4,7 +4,7 @@
 
   items:
     - title: Read the paper
-      url: https://www.example.com
+      url: https://arxiv.org/abs/2402.15332
       tag: New
 
     - title: Learn the basics (Cats4AI)
